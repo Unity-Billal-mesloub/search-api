@@ -1,9 +1,9 @@
-__NOTE:__ There is a new implemenation: [search.js](https://github.com/componentjs/search.js)
+__NOTE:__ There is a new implemenation: [search.js](https://github.com/Unity-Billal-mesloub/search.js)
 
 # Component Search
 
   The component search application, powered by Express and Redis.  
-  Uses the [componentjs/wiki](https://github.com/componentjs/wiki) to fetch data.  
+  Uses the [componentjs/wiki](https://github.com/Unity-Billal-mesloub/wiki) to fetch data.  
   
 
 ## API
